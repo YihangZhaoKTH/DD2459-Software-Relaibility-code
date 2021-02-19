@@ -1,0 +1,3 @@
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/cmake-build-debug/CMakeFiles/lab2.dir
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

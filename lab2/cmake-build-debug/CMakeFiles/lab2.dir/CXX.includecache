@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/config.h
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/functions.h
+vector
+-
+iostream
+-
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/main.cpp
+iostream
+-
+functions.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/functions.h
+random.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/random.h
+pair.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/pair.h
+testcase.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/testcase.h
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/pair.h
+iostream
+-
+functions.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/functions.h
+stdlib.h
+-
+time.h
+-
+map
+-
+fstream
+-
+string
+-
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/random.cpp
+random.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/random.h
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/random.h
+config.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/config.h
+iostream
+-
+functions.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/functions.h
+stdlib.h
+-
+time.h
+-
+string
+-
+fstream
+-
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/testcase.cpp
+testcase.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/testcase.h
+
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/testcase.h
+vector
+-
+stdlib.h
+-
+time.h
+-
+string
+-
+fstream
+-
+pair.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/pair.h
+config.h
+D:/Users/LEGION/Desktop/KTH Study/period3/Software Reliability/lab2/lab2/config.h
+
